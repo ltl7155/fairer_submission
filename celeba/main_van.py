@@ -93,9 +93,9 @@ if __name__ == '__main__':
     parser.add_argument('--sl', default=0, type=int, help='start layer')
 
     parser.add_argument('--target_id', default=33, type=int, help='2:attractive/31:smile/33:wavy hair')
-    parser.add_argument('--data_celeba_dir', default="/home/xiaofei/litl/fair_attention/fairness_attention/celeba",
+    parser.add_argument('--data_celeba_dir', default="",
                          type=str, help='123')
-    parser.add_argument('--save_root', default="/data2/litl_data/fairness_attention",
+    parser.add_argument('--save_root', default="",
                          type=str, help='123')
 
     parser.add_argument('--name', default="celeba", type=str, )
