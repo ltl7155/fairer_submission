@@ -30,4 +30,3 @@ else:
             if not os.path.exists(fname):
                 os.system(sh)
 
-# CUDA_VISIBLE_DEVICES=6 python main_prune_alexnet.py --fair_method CAIGA --mode eo --lam 0--lam2 0 --exp 10 --epochs 50 --data_celeba_dir /mnt/mfs/litl/image_Fairness/fairness_NIA/backup_0523/fair_attention/celeba
