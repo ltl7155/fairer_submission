@@ -1,4 +1,4 @@
-# Fairness via Selective Neuron Importance Alignment
+# Fairer: Fairness as Decision Rationale Alignment.
 This is an anonymous submission to reproduce the work.
 
 ![Python 3.6](https://img.shields.io/badge/python-3.6-green.svg)
